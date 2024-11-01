@@ -1,17 +1,26 @@
-# Welcome to MkDocs
+# Code Compendium Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+---
 
-## Commands
+## Table of Contents
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+1. [Introduction](/introduction)
+2. [Features](/features)
+3. [Getting Started](/getting-started)
+   - [Prerequisites](/getting-started#prerequisites)
+   - [Installation](/getting-started#installation)
+4. [Usage](/usage)
+   - [Command-Line Arguments](/usage#command-line-arguments)
+   - [Examples](/usage#examples)
+5. [Architecture](/architecture)
+   - [Overview](/architecture#overview)
+   - [Modules and Functions](#modules-and-functions)
+6. [Development Guide](#development-guide)
+   - [Project Structure](#project-structure)
+   - [Building the Project](#building-the-project)
+7. [Conclusion](#conclusion)
+8. [Appendix](#appendix)
+   - [Tips for Effective Use](#tips-for-effective-use)
+   - [Troubleshooting](#troubleshooting)
+   - [Contribution Guidelines](#contribution-guidelines)
+   - [License](#license)
