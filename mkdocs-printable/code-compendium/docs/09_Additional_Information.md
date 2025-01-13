@@ -154,7 +154,7 @@ This command will include node_modules in the scanning process.
 
 For support or inquiries, please contact:
 
-- **GitHub**: [https://github.com/spirit-riddle/code-compendium](https://github.com/spirit-riddle/code-compendium)
+- **GitHub**: [https://github.com/starunderscore/code-compendium](https://github.com/starunderscore/code-compendium)
 
 ---
 
